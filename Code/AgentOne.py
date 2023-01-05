@@ -4,7 +4,6 @@ import random as r
 from spade.agent import Agent
 from spade.behaviour import FSMBehaviour, State
 from spade.message import Message
-from argparse import ArgumentParser
 from spade import quit_spade
 
 mreza = [['', '', ''], ['', '', ''], ['', '', '']]
